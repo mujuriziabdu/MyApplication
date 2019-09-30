@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/settings"
+        android:title="@string/settings_title"
+       android:icon="@drawable/ic_settings_black_24dp"
+        app:showAsAction="ifRoom">
+
+    </item>
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/profile"
+            android:orderInCategory="1"
+            app:showAsAction="never"
+            android:title="@string/item1">
+        </item>
+        <item
+            android:id="@+id/register"
+            android:orderInCategory="2"
+            app:showAsAction="never"
+            android:title="@string/item2">
+        </item>
+        <item
+            android:id="@+id/helped"
+            android:orderInCategory="3"
+            app:showAsAction="never"
+            android:title="@string/item3">
+        </item>
+        <item
+            android:id="@+id/setted"
+            android:orderInCategory="4"
+            app:showAsAction="never"
+            android:title="@string/item4">
+        </item>
+
+
+    </group>
+
+</menu>

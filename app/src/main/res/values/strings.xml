@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">E-TICKETING</string>
+    <string name="entername">Please enter your name</string>
+    <string name="save">SAVE</string>
+    <string name="yourname">Your name is :</string>
+    <string name="exit">EXIT</string>
+    <string name="settings_title">Settings</string>
+    <string name="help">Help</string>
+    <string name="profile">My Profife</string>
+    <string name="welcometext">STREETPARKING TICKETS</string>
+    <string name="welcome">YOUR WELCOME</string>
+    <string name="item1">About E-Tickets</string>
+    <string name="item2">Settings</string>
+    <string name="item3">Help</string>
+    <string name="item4">Register Car</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="fronttext">Get Your Street Parking E-Ticket And Pay Conviniently
+    Through Your Mobile Money Account
+    </string>
+    <string name="btnTextRegister">REGISTER</string>
+    <string name="btntextLogin">LOGIN</string>
+    <string name="nothing">Nothing To Show Per Now</string>
+    <string name="signup">Sign Up</string>
+    <string name="signupsocial">Sign Up With Your Social Platform</string>
+
+</resources>
